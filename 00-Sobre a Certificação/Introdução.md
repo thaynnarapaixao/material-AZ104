@@ -1,5 +1,4 @@
-#Exame AZ-104: Microsoft Azure Administrator
-
+Exame AZ-104: Microsoft Azure Administrator
 ----
 
 Os candidatos a este exame devem ter experiência na implementação, gerenciamento e monitoramento do ambiente Microsoft Azure da organização.
