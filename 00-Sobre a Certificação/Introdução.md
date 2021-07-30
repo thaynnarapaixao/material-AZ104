@@ -1,9 +1,6 @@
 <img src="az104.webp" width="1000" height="400" align="right" />
 
 
-</br>
-</br>
-
 Exame AZ-104: Microsoft Azure Administrator
 ----
 
@@ -40,5 +37,5 @@ https://www.udemy.com/course/70533-azure/
 https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep
 
 Boa Sorte;
-</br>
+
 <img src="https://media1.tenor.com/images/12531e0475545976e249eb6eca919b51/tenor.gif?itemid=7823899" width="400" height="400" />
