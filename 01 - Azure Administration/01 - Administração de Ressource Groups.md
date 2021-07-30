@@ -7,7 +7,8 @@ Esses Recursos são aglomerados dentro do azure em uma localidade chamada ressou
 ----
 
 ## O que é um resource Group ?
-<img src="img/image-32.png" align="left" />
+
+![Resource Group](img/image-32.png)
 </br>
 ----
 
