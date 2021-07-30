@@ -26,3 +26,12 @@ O Ressource Group é gerenciado pelo [resource group manager](https://docs.micro
 Para que possamos interagir com os ressource Groups e com o ARM é necessário que tenhamso uma relação de confiança estabelecida com o Azure ad via autenticação. Essa relação garante que possamos adiministrar cada um desses recursos via identidade garantindo compliance e segurança sobre os recursos criados. Sendo assim sempre teremos o seguinte cenário :
 
 ```Efetuar login > Selecionar Grupo de recurso ou Cria-lo > Criar Recurso ```
+
+
+Keypoints :
+ - Resources são gerenciados pela azure! Maquinas virtuais, rede, storage e etc
+   - Resource Groups ( RG ) São containers que aglomeram os recursos
+     - Esses Grupos de recursos ficam abaixo de uma Subscription que é ligada aos custos.
+
+- Recursos podem ser gerenciados via ARM [resource group manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+- Cada Recuso tem seu Provider, que é ligado ao tipo de recurso que é cedido.
