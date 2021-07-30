@@ -20,5 +20,9 @@ Portanto, quando você especifica um local para o grupo de recursos, especifica 
 
 *Criando um resource group*
 
-O resource Group pode ser criado via interface gráfica ( Azure portal, via cli ou Powershell interagindo com os gateways de api do azure).
+O resource Group pode ser criado via interface gráfica ( Azure portal), via cli ou Powershell interagindo com os gateways de api do azure.
 O Ressource Group é gerenciado pelo [resource group manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview) que ao receber as calls do usuário para gerenciar os recursos do azure repassa essa funcção para o [ARM](https://www.google.com/search?client=firefox-b-d&q=azure+arm) para criação dos recursos e se responsailiza somente pelo isolamento de cada um deles dentro do resource group criado.
+
+Para que possamos interagir com os ressource Groups e com o ARM é necessário que tenhamso uma relação de confiança estabelecida com o Azure ad via autenticação. Essa relação garante que possamos adiministrar cada um desses recursos via identidade garantindo compliance e segurança sobre os recursos criados. Sendo assim sempre teremos o seguinte cenário :
+
+''' Efetuar login > Selecionar Grupo de recurso ou Cria-lo > Criar Recurso '''
