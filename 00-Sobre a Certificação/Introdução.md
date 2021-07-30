@@ -1,0 +1,10 @@
+#Exame AZ-104: Microsoft Azure Administrator
+----
+
+Os candidatos a este exame devem ter experiência na implementação, gerenciamento e monitoramento do ambiente Microsoft Azure da organização.
+
+O candidato a este exame deve ter pelo menos seis meses de experiência prática na administração do Azure, além de sólida compreensão dos principais serviços, cargas de trabalho, segurança e governança do Azure. Além disso, esta função deve ter experiência no uso de modelos do PowerShell, Azure CLI e Azure portal e do Azure Resource Manager.
+
+----
+
+**** Habilidades medidas ****
