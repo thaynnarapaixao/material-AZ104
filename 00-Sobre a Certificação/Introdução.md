@@ -7,4 +7,4 @@ O candidato a este exame deve ter pelo menos seis meses de experiência prática
 
 ----
 
-**** Habilidades medidas ****
+**Habilidades medidas**
