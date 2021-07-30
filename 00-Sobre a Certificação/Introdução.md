@@ -34,4 +34,5 @@ https://www.udemy.com/course/70533-azure/
 https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep
 
 Boa Sorte;
-<img src="https://media1.tenor.com/images/12531e0475545976e249eb6eca919b51/tenor.gif?itemid=7823899" width="40" height="40" />
+</br>
+<img src="https://media1.tenor.com/images/12531e0475545976e249eb6eca919b51/tenor.gif?itemid=7823899" width="400" height="400" />
