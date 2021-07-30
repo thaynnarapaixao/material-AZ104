@@ -27,8 +27,9 @@ Para que possamos interagir com os ressource Groups e com o ARM é necessário q
 
 ```Efetuar login > Selecionar Grupo de recurso ou Cria-lo > Criar Recurso ```
 
+--
 
-Keypoints :
+## Keypoints :
  - Resources são gerenciados pela azure! Maquinas virtuais, rede, storage e etc
    - Resource Groups ( RG ) São containers que aglomeram os recursos
      - Esses Grupos de recursos ficam abaixo de uma Subscription que é ligada aos custos.
