@@ -7,7 +7,10 @@ Esses Recursos são aglomerados dentro do azure em uma localidade chamada ressou
 ----
 
 ##O que é um resource Group ?
-<img src="img/image-32.png" align="right" />
+<img src="img/image-32.png" align="left" />
+
+----
+
 
 É um conteiner lógico de recursos no azure que permite adiministrar
  os recurso do azure de forma que existam diferentes exigencias em determinado grupo de recursos. 
