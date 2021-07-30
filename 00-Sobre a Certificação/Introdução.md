@@ -35,4 +35,4 @@ https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification
 
 Boa Sorte;
 </br>
-<img src="https://media.tenor.com/images/fccd063a310b9ad9355a97aeb529ca71/tenor.gif" width="400" height="400" />
+<img src="https://media1.tenor.com/images/12531e0475545976e249eb6eca919b51/tenor.gif?itemid=7823899" width="400" height="400" />
