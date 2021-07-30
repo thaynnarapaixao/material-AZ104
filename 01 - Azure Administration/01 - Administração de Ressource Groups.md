@@ -25,4 +25,4 @@ O Ressource Group é gerenciado pelo [resource group manager](https://docs.micro
 
 Para que possamos interagir com os ressource Groups e com o ARM é necessário que tenhamso uma relação de confiança estabelecida com o Azure ad via autenticação. Essa relação garante que possamos adiministrar cada um desses recursos via identidade garantindo compliance e segurança sobre os recursos criados. Sendo assim sempre teremos o seguinte cenário :
 
-''' Efetuar login > Selecionar Grupo de recurso ou Cria-lo > Criar Recurso '''
+```Efetuar login > Selecionar Grupo de recurso ou Cria-lo > Criar Recurso ```
