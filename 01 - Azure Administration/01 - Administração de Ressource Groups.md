@@ -27,7 +27,7 @@ Para que possamos interagir com os ressource Groups e com o ARM é necessário q
 
 ```Efetuar login > Selecionar Grupo de recurso ou Cria-lo > Criar Recurso ```
 
---
+----
 
 ## Keypoints :
  - Resources são gerenciados pela azure! Maquinas virtuais, rede, storage e etc
