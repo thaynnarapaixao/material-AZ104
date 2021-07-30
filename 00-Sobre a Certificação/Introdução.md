@@ -1,4 +1,4 @@
-<img src="az.png" width="900" height="500" />
+<img src="az104.webp" width="900" height="500" />
 Exame AZ-104: Microsoft Azure Administrator
 ----
 
