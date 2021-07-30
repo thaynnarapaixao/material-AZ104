@@ -9,7 +9,6 @@ O candidato a este exame deve ter pelo menos seis meses de experiência prática
 
 **Habilidades medidas**
 
-- O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Identidades e governança do Manage Azure (15-20%)
 - Implementar e gerenciar armazenamento (15-20%)
 - Implantar e gerenciar recursos de computação do Azure (20-25%)
